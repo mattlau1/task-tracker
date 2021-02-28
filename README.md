@@ -1,3 +1,8 @@
+# Usage
+`yarn install`
+`yarn run server` to load up json server
+`yarn start` to load up app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
