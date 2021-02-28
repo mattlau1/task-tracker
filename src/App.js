@@ -24,7 +24,6 @@ function App() {
     const data = await res.json()
 
     return data
-
   }
 
   // Fetch Task
