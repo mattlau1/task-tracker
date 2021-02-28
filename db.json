@@ -1,28 +1,10 @@
 {
   "tasks": [
     {
-      "task": "Dentist",
-      "day": "Tuesday",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "task": "SHIEET",
-      "day": "",
-      "reminder": false,
-      "id": 2
-    },
-    {
-      "task": "SHIEET3",
-      "day": "2",
+      "task": "Example Task",
+      "day": "Tuesday 2:00am",
       "reminder": true,
-      "id": 3
-    },
-    {
-      "task": "Breakfast",
-      "day": "",
-      "reminder": false,
-      "id": 4
+      "id": 1
     }
   ]
 }
