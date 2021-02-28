@@ -1,7 +1,5 @@
-# Usage
-### `yarn install`
-### `yarn run server` to load up json server
-### `yarn start` to load up app
+## About
+This branch is hosted on github pages. To host locally, check localserver branch.
 
 # Getting Started with Create React App
 
