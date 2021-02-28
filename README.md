@@ -1,3 +1,5 @@
+## This project is broken btw because idk how to do routing
+
 ## About
 This branch is hosted on [Github Pages](https://mattlau1.github.io/tasktracker/). To host locally, check localserver branch.
 
