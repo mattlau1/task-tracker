@@ -1,7 +1,7 @@
 # Usage
-`yarn install`
-`yarn run server` to load up json server
-`yarn start` to load up app
+### `yarn install`
+### `yarn run server` to load up json server
+### `yarn start` to load up app
 
 # Getting Started with Create React App
 
