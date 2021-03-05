@@ -1,8 +1,3 @@
-## This project is broken btw because idk how to do routing
-
-## About
-This branch is hosted on [Github Pages](https://mattlau1.github.io/tasktracker/). To host locally, check localserver branch.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
