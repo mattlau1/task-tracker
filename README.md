@@ -1,5 +1,5 @@
 # About
-Practice with json-server backend and react
+Practice with React with a json-server backend
 
 This project is from [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
